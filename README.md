@@ -2,7 +2,7 @@ En application.properties, se pueden escribir propiedades a usar por el programa
 
 greeting=Hello world!
 
-#my.number=100
+my.number=100
 
 En el programa, para poder usar dichas variables/propiedades:
 
